@@ -14,7 +14,7 @@ Furthermore, if users try to navigate to the URLs for either the survey or the r
 * MySQL syntax for querries
 * How to use MAMP Server
 
-## Valid Credentials
+### Valid Credentials
 1. admin::1234
 2. abdullah::password
 3. GoTLover:tyrion4king
