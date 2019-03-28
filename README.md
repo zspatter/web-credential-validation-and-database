@@ -17,4 +17,4 @@ Furthermore, if users try to navigate to the URLs for either the survey or the r
 ### Valid Credentials
 1. admin::1234
 2. abdullah::password
-3. GoTLover:tyrion4king
+3. GoTLover::tyrion4king
