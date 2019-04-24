@@ -1,10 +1,3 @@
-<!--
-Zachary Patterson
-Assignment 2
-2019-02-19
-CSCI-311
--->
-
 <!doctype html>
 <html>
 <head>
